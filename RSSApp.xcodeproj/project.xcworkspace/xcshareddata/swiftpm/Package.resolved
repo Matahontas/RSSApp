@@ -1,0 +1,24 @@
+{
+  "originHash" : "7e8d2194a364cda7d23c127908eab9b9e70343142974c2a3fe14f3ddcf55df93",
+  "pins" : [
+    {
+      "identity" : "asyncimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/baskurthalit/asyncImage.git",
+      "state" : {
+        "revision" : "081fd7fbcbea6ecec50265042f023b3ed5fed7cb",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "feedkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nmdias/FeedKit.git",
+      "state" : {
+        "revision" : "68493a33d862c33c9a9f67ec729b3b7df1b20ade",
+        "version" : "9.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
